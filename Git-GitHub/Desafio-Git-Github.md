@@ -1,16 +1,16 @@
-# Comandos executados no Desafio Git/GitHub
+# Comandos executados para me aperfeiçoar no Desafio Git/GitHub
 
 1. Clonei o Repositório do Servidor para o local:
 
-´git clone https://github.com/LarissaGuilherme/DesafioDIO-TQIFullstackDeveloper-LarissaGuilherme.git`
+`git clone https://github.com/LarissaGuilherme/DesafioDIO-TQIFullstackDeveloper-LarissaGuilherme.git`
 
 2. Criei a pasta para o tópico Git/github:
 
 `mkdir Git-GitHub`
 
-3. Criei o arquivo .txt dentro da pasta Git/github:
+3. Criei este arquivo .md dentro da pasta Git/github:
 
-`echo > Desafio-Git-Github.txt`
+`echo > Desafio-Git-Github.md`
 
 4. Voltei ao Repositório principal:
 
@@ -18,7 +18,7 @@
 
 5. Verifiquei o status e ele retornou que haviam alterações em Untracked
 
-´git status´
+`git status`
 
 6. Movi todas os arquivos para Staged:
 
@@ -32,6 +32,7 @@
 
 `Git push origin master`
 
-> Para consultar o [Markedown Guide](https://www.markdownguide.org/basic-syntax/#code)
+
+#### >Para consultar o [Markedown Guide](https://www.markdownguide.org/basic-syntax/#code).
 
 
